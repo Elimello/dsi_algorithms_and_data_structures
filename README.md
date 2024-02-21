@@ -1,1 +1,2 @@
-# dsi_algorithms_and_data_structures
+# GitHub repository for DSI - Algorithms and Data Structures
+
