@@ -1,2 +1,2 @@
-# GitHub repository for DSI - Algorithms and Data Structures
+# GitHub repository for the DSI course: Algorithms and Data Structures
 
